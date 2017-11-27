@@ -150,7 +150,7 @@ h4 {
    ========================================================================== */
 
 .hello {
-	background-image: url(../assets/images/handsome-guy);
+	background-image: url(../assets/images/handsome-guy.jpg);
 	background-repeat: no-repeat;
 	background-size: 100%;	
 	padding: 0 0 40px;
@@ -158,7 +158,7 @@ h4 {
 	margin-top: 135px;
 }
 
-.hello .container {padding-top: 120px;}
+.hello .container {padding-top: 110px;}
 
 .hello h1 {
 	padding-top: 130px;
